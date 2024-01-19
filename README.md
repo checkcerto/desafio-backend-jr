@@ -34,7 +34,7 @@ Antes de persistir os dados no banco de dados, deverá ser consultada uma API ex
 Use este endereço para consultar os dados do veículo passando a placa: 
 GET (https://my.api.mockaroo.com/veiculos?key=55ad1cd0&placa=ABC1234)
 
-Depois de persistido os dados o retorno deverá consolidar os dados enviados juntamente com os dados obtidos da API Externa.
+Depois de persistido os dados, o retorno deverá consolidar os dados enviados juntamente com os dados obtidos da API Externa.
 
 Exemplo: 
 
