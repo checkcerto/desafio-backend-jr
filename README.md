@@ -10,6 +10,7 @@
 - Deve ser usado o Framework Spring;
 - Recomendamos o uso dos seguintes projetos do ecossistema Spring: Spring Boot, Spring Web, Spring Data JPA;
 - Pode ser usado um dos seguintes bancos de dados: MySQL, PostgreSQL ou H2;
+- Este serviço deve ser RESTFul.
 
 ## Objetivo
 Temos um cadastro de veículos onde precisaremos das seguintes informações: Proprietário, CPF Proprietário, Placa, Chassi, Marca, Modelo e Status do Licenciamento. CPF e Placa deverão ser únicos no sistema. Sendo assim, seu sistema deve permitir apenas um cadastro com o mesmo CPF ou Placa;
