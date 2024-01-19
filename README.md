@@ -39,7 +39,7 @@ Depois de persistido os dados, o retorno deverá consolidar os dados enviados ju
 Exemplo: 
 
 ```json
-{   "id" : 1
+{   "id" : 1,
     "proprietario" : "José da Silva",
     "cpf" : "203.397.390-53",
     "placa" : "ABC1234",
